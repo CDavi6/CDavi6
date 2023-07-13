@@ -9,8 +9,9 @@
 
 - [Notes App](https://notes-app-chi-inky.vercel.app)
 
-<h2>🗒️Certifications:</h2>
+<h2>🗒️Education:</h2>
 
+####  I have 5+ years of coding experience with multiple languages such as: HTML, CSS, Javascript, C#, C++ and Python. I am currently focusing on Javascript for web development but can easily interchange between    languages. 
 - [Certificate]()
 
 <h2>☎️ Connect with me:</h2>
