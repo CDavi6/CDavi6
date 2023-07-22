@@ -1,3 +1,5 @@
+<h1>Hi there :wave:, I'm Clayton.</h1>
+
 Hey there! I'm Clayton and I have a genuine passion for computers. Coding, gaming and exploring the world of sports are some of my favourite hobbies. My journey in software engineering has been both fun and fulfilling as I have been able to learn so much and create so many awesome things!
 
 With over five years of coding experience, I've become proficient in several languages including JavaScript, HTML, CSS, and C#. Additionally, I have a working knowledge of C++ and Python which adds variety to my skill set.
