@@ -22,7 +22,7 @@ If you're interested in connecting, collaborating, or simply discussing all thin
 
 <h2>👨‍💻Game Development Projects:</h2>
 
-- [Tank Shooter](https://github.com/CDavi6/Tank-Shooter)
+- [Bomblets](https://github.com/CDavi6/Bomblets)
 
 <h2>☎️ Connect with me:</h2>
 
