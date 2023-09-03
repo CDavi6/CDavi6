@@ -19,8 +19,8 @@ If you're interested in connecting, collaborating, or simply discussing all thin
 
 <h2>🌐Web Development Projects:</h2>
 
-- [Notes App](https://notes-app-chi-inky.vercel.app)
-- [API Scout](https://api-scout-dxqsjjw74-cdavi6.vercel.app)
+- [Notes App](https://github.com/CDavi6/notes-app)
+- [API Scout](https://github.com/CDavi6/api-scout)
 
 <h2>👨‍💻Game Development Projects:</h2>
 
