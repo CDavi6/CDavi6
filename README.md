@@ -14,7 +14,8 @@ If you're interested in connecting, collaborating, or simply discussing all thin
 
 <h2>🗒️Education:</h2>
 
-####  I have 5+ years of coding experience with multiple languages such as: HTML, CSS, Javascript, C#, C++ and Python. I am currently focusing on Javascript for web development but can easily interchange between    languages.
+I have 5+ years of coding experience with multiple languages such as: HTML, CSS, Javascript, C#, C++ and Python. I am currently focusing on Javascript for web development but can easily interchange between languages.
+
 - [Certificate]() (Not uploaded yet.)
 
 <h2>🌐Web Development Projects:</h2>
