@@ -1,33 +1,67 @@
-<h1>Hi there :wave:, I'm Clayton.</h1>
+<h2 align="left">Hi 👋! My name is Amine Farhat and I'm a Fullstack developper from Morocco</h2>
 
-Hey there! I'm Clayton and I have a genuine passion for computers. Coding, gaming and exploring the world of sports are some of my favourite hobbies. My journey in software engineering has been both fun and fulfilling as I have been able to learn so much and create so many awesome things!
+###
 
-With over five years of coding experience, I've become proficient in several languages including JavaScript, HTML, CSS, and C#. Additionally, I have a working knowledge of C++ and Python which adds variety to my skill set.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhatamiine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhatamiine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-The process of transforming ideas into interactive creations through coding is not only exciting, but also highly rewarding. Continuously seeking new challenges, I strive to push the boundaries of what I can achieve as a software engineer.
+###
 
-Looking forward, I'm excited about the endless possibilities that lie ahead. My goal is to contribute to the ever-evolving tech industry by applying my knowledge, creativity and passion to develop innovative designs.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-If you're interested in connecting, collaborating, or simply discussing all things tech-related, I'd love to chat! Let's start this journey together and make a positive impact on the digital world, one line of code at a time.
+###
 
-<br />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+</div>
 
-<h2>🗒️Education:</h2>
+###
 
-I have 5+ years of coding experience with multiple languages such as: HTML, CSS, Javascript, C#, C++ and Python. I am currently focusing on Javascript for web development but can easily interchange between languages.
+<div align="left">
+  <a href="mailto:farhatamiine@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aminefarhat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-- [Certificate]() (Not uploaded yet.)
+###
 
-<h2>🌐Web Development Projects:</h2>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/farhatamiine/farhatamiine/output/snake.svg" alt="Snake animation" />
 
-- [Notes App](https://github.com/CDavi6/notes-app)
-- [API Scout](https://github.com/CDavi6/api-scout)
-
-<h2>👨‍💻Game Development Projects:</h2>
-
-- [Bomblets](https://github.com/CDavi6/Bomblets)
-
-<h2>☎️ Connect with me:</h2>
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Cdavi06)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clayton-davison)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=z8961kjv24f27taybg5co964i)
+###
